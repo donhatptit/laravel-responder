@@ -1,5 +1,5 @@
 {
-    "name": "flugger/laravel-responder",
+    "name": "donhatptit/laravel-responder",
     "description": "A Laravel Fractal package for building API responses, giving you the power of Fractal and the elegancy of Laravel.",
     "keywords": [
         "laravel",
@@ -10,12 +10,12 @@
         "response",
         "responder"
     ],
-    "homepage": "https://github.com/flugger/laravel-responder",
+    "homepage": "https://github.com/donhatptit/laravel-responder",
     "license": "MIT",
     "authors": [
         {
-            "name": "Alexander Tømmerås",
-            "email": "flugged@gmail.com"
+            "name": "DoNhat",
+            "email": "dvnit04@gmail.com"
         }
     ],
     "require": {

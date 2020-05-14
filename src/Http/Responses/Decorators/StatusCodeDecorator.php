@@ -24,7 +24,7 @@ class StatusCodeDecorator extends ResponseDecorator
     public function make(array $data, int $status, array $headers = []): JsonResponse
     {
         return $this->factory->make(array_merge([
-            'status' => $status,
+            'code' => $status,
         ], $data), $status, $headers);
     }
 }

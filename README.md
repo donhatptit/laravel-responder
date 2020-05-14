@@ -63,7 +63,7 @@ This package requires:
 To get started, install the package through Composer:
 
 ```shell
-composer require flugger/laravel-responder
+composer require donhatptit/laravel-responder
 ```
 
 ## Laravel
